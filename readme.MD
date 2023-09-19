@@ -25,11 +25,11 @@ The `// hidestream` comment in our setup serves as a curtain, revealing only a p
 ## Instructions
 
 - **Your Moment**: Step forward to have your moment with the evolving code narrative when your turn arrives.
-- **Interpret and Imagine**: Engage with the last visible line of code, interpreting the narrative and imagining the possibilities. Try to run the code with `go run .` to understand the current state of the code.
+- **Interpret and Imagine**: Engage with the last visible line of code and imagine the possibilities. Try to run the code with `go run .` to understand the current state of the code.
 - **Craft Your Contribution**: Craft your two lines of code, extending the narrative logically and creatively. Remember, your contribution should not break the working of the code; it should still run successfully at the end of your turn.
-- **Maintain Code Structure**: If you initiate a code structure such as an `if` clause, ensure to close it properly within your turn. The closing brackets should remain visible to maintain the structural integrity of the code.
+- **Maintain Code Structure**: If you initiate a code structure such as an `if` clause, ensure to close it properly within your turn. (The closing brackets should remain visible to maintain the structural integrity of the code.)
 - **Error Check**: Ensure there are no syntax errors in your contribution. Execute the code with `go run .` before you proceed to the next step. 
-- **Move the Marker**: Once you have ensured the code runs successfully, add the `// hidestream` comment marker to the last that was visible to you, and also the first line you wrote, leaving your second line and the structural closing elements (like closing brackets) visible to the next contributor.
+- **Move the Marker**: Once you have ensured the code runs successfully, add the `// hidestream` comment marker to the last line that was visible to you when you started, and also the first line you wrote - leaving your second line and the structural closing elements (like closing brackets) visible to the next contributor.
 - **Pass the Baton**: Allow the next coder to the keyboard, inviting them to add to our collective creation.
 
 ## Points to Remember
